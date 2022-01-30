@@ -6,3 +6,11 @@ In this project, I analyzed data about US flu deaths and population and performe
 Link to Tableau presentation: https://public.tableau.com/shared/XFM9N8RHP?:display_count=n&:origin=viz_share_link
 
 Link to video presentation: https://youtu.be/iyhSm86Wi2U
+
+DATA SETS:
+
+- US flu deaths by geography, time, age, and gender (source: CDC)
+  - https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx
+
+- US population data by geography (source: US Census Bureau)
+   - https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/Census_Population_transformed.csv
